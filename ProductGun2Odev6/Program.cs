@@ -4,7 +4,9 @@ namespace ProductGun2Odev6
 {
     class Program
     {
-        asdsadsadasdsa;
+        asdsadsad;
+        asdsadsadasdsa;sadsad;
+            adsad;
             dasdsdsadasd;
      class Product
         {
