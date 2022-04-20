@@ -4,7 +4,8 @@ namespace ProductGun2Odev6
 {
     class Program
     {
-
+        asdsadsadasdsa;
+            dasdsdsadasd;
      class Product
         {
             public string ProductName { get; set; }
